@@ -1,20 +1,11 @@
-## Info de versión
+#### ¿Qué hace este PR?
 
-### nuevo
-- caracteristica agregada (#ISSUE)
+#### ¿Descripción de la tarea que se completará?
 
-### arreglado
-- error resuelto (#ISSUE)
+#### ¿Cómo debería ser probado manualmente?
 
-### modificado
-- caracteristica modificada (#ISSUE)
+#### Informacion Adicional
 
-### sin resolver
-- errores que no se resolvieron (#ISSUE)
-
-## Recursos
-
-- archivos adjuntos
-
+#### ISSUES asociados al PR
 
 *Nota: Agregar/Remover campos según sea necesario*
